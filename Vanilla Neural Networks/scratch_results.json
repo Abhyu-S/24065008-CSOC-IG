@@ -1,0 +1,21 @@
+{
+  "accuracy": 0.6196960101329956,
+  "f1_score": 0.34773838156567616,
+  "pr_auc": 0.2618846983839131,
+  "confusion_matrix": [
+    [
+      11458,
+      6184
+    ],
+    [
+      2223,
+      2241
+    ]
+  ],
+  "convergence_time": 806.13,
+  "inference_time": 129922917.142,
+  "memory_usage": 678.6,
+  "timestamp": "2025-06-25 00:53:02",
+  "python_version": "3.12.7",
+  "command": "c:\\Users\\VICTUS\\anaconda3\\Lib\\site-packages\\ipykernel_launcher.py --f=c:\\Users\\VICTUS\\AppData\\Roaming\\jupyter\\runtime\\kernel-v35cb9d2bac96d33cff17f60c08a07dbd214713f7b.json"
+}
