@@ -1,0 +1,25 @@
+{
+  "accuracy": 0.635890708404958,
+  "f1_score": 0.4395237100480468,
+  "precision": 0.31888451045771443,
+  "recall": 0.706989247311828,
+  "pr_auc": 0.3570164768208263,
+  "confusion_matrix": [
+    [
+      10901,
+      6741
+    ],
+    [
+      1308,
+      3156
+    ]
+  ],
+  "optimal_threshold": 0.48999999999999977,
+  "training_time": 711.6752724647522,
+  "convergence_epochs": 27,
+  "model_parameters": 89153,
+  "model_size_mb": 0.3400917053222656,
+  "system_memory_mb": 1426.2890625,
+  "timestamp": "2025-06-25T22:19:58.121048",
+  "device": "cuda"
+}
